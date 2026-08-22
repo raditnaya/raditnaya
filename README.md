@@ -1,13 +1,13 @@
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=PPLG%20Developer&fontSize=40&animation=twinkling)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Siswa%20PPLG&fontSize=40&animation=twinkling)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Siswa+PPLG;Web+%26+Mobile+Developer;Selamat+Datang+di+Profil+Saya!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Selamat+Datang+di+Profil+Saya!;Web+%26+Software+Developer;Suka+Membuat+Projek+Kecil;Terima+Kasih+Telah+Berkunjung+di+Profil+Saya!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73426693/200424622-6b998394-e332-4752-9d3d-c1164923e134.gif" alt="Pacman Animation" width="450" />
+  <img src="https://raw.githubusercontent.com/raditnaya/raditnaya/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
 
 ---
