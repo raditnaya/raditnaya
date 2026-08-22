@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonlong/matsuri/master/pacman.gif" alt="Pacman Animation" width="450" />
+  <img src="https://user-images.githubusercontent.com/73426693/200424622-6b998394-e332-4752-9d3d-c1164923e134.gif" alt="Pacman Animation" width="450" />
 </p>
 
 ---
@@ -26,4 +26,4 @@
 
 ### 📊 STATISTIK :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raditnaya&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raditnaya&layout=compact&theme=dark)
